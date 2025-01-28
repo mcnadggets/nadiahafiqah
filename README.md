@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadiah</h1>
 <h3 align="center">A passionate full-stack developer from Singapore</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nadiahafiqah](https://github.com/nadiahafiqah)
+- 👨‍💻 All of my projects are available at [https://github.com/mcnadggets](https://github.com/mcnadggets)
 
 - 📫 How to reach me **nadiahafiqahh@gmail.com**
 
